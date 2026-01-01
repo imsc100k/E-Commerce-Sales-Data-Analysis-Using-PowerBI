@@ -28,22 +28,26 @@ Flipkart Sales Dataset- This dataset is initially available in "xlsx" format, wh
 ## Screenshots of Report Pages:
 
 ### Cover Page
- ![COVERPAGE](https://github.com/user-attachments/assets/d2e83cdc-cd25-4608-8f71-a7efb108f875)
+ ![COVERPAGE](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Coverpage.png)
 
 ### Dashboard Page
-![MAIN DB](https://github.com/user-attachments/assets/19c9aa32-b842-4b28-9081-ed42ec92e3db)
+![MAIN DB](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Dashboard.png)
 
 ### Order Insights Page
-![PAGE 1](https://github.com/user-attachments/assets/3dd9df4d-0b22-4153-bae9-212102e541f1)
+![PAGE 1](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Orders.png)
 
 ### Product Insights Page
-![PAGE 2](https://github.com/user-attachments/assets/9f6f50a0-fdc7-4f56-98f7-df631f6907a8)
+![PAGE 2](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Products.png)
 
 ### Customer Insights Page
-![PAGE 3](https://github.com/user-attachments/assets/fcc372eb-7f91-4dd3-ae6e-ef07842530fd)
+![PAGE 3](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Customers.png)
 
 ### Profit Insights & Forecast
-![PAGE 4](https://github.com/user-attachments/assets/e924cdab-8581-4ed6-9ffc-1e8e10d114ec)
+![PAGE 4](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Profit%20Insights%20and%20Forecast.png)
+
+### Target Analysis
+![PAGE 5](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Target.png)
+
 
 ## 👤 Author
 
